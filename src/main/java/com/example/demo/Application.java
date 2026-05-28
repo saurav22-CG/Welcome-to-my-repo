@@ -14,6 +14,9 @@ public class Application {
            public void test(){
 
 	}
+
+public void Main1(){
+
 }
 
 }
